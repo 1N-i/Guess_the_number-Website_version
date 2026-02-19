@@ -1,0 +1,39 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://cdn-icons-png.flaticon.com/512/7562/7562400.png");
+  background-color: gray;
+  background-size: 350px;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 10vh;
+}
+
+.page-title {
+  color: white;
+  margin-top: 5px;
+}
+
+input {
+  margin: 4px;
+  padding: 6px;
+  border-radius: 5px;
+}
+
+button {
+  margin-top: 12px;
+  padding: 4px 8px;
+  border-radius: 10px;
+  background: darkgray;
+}
+
+.result {
+  color: white;
+  text-align: center;
+  margin-top: 10px;
+}
