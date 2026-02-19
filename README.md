@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-Simple game where the challenge is to discover a secret number between 0 and 50
+## Simple game where the challenge is to discover a secret number between 0 and 50
 
 ## 📋 Summary
 - [Technologies](#-technologies)
@@ -21,7 +21,7 @@ Simple game where the challenge is to discover a secret number between 0 and 50
 - **JavaScript (ES6+)**: Game logic.
 
 ## ✨ Features
-- **Limited tries:** The playr has a limit of 5 tries to find the secret number.
+- **Limited tries:** The player has a limit of 5 tries to find the secret number.
 - **Dynamic Hints:** The system informs you if the secret number is greater or less than the current guess.
 - **Input Validation:** Protection against numbers outside the range (0-50).
 - **Layout Resilience:** Use of `white-space: pre-wrap` to display formatted messages with line breaks.
